@@ -1,1 +1,8 @@
+      .title {
+            text-align: center;
+        }
 
+        .mediaobject img {
+            display: block;
+            margin: 0 auto;
+        }
